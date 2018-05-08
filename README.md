@@ -4,11 +4,11 @@ https://www.icourse163.org/learn/BIT-268001?tid=1002788003#/learn/content?type=d
 
 课程内容概述
 
----- 第一部分 Python快速入门（2周）----
+##　---- 第一部分 Python快速入门（2周）----
 
 导学：从两个实例看Python语言
 
-第1周 Python基本语法元素
+### 第1周 Python基本语法元素
 
 1.1 从计算机到程序设计语言
 
@@ -30,7 +30,7 @@ https://www.icourse163.org/learn/BIT-268001?tid=1002788003#/learn/content?type=d
 
 小结与练习
 
-第2周 Python基本图形绘制
+### 第2周 Python基本图形绘制
 
 2.1 Python语言的特点
 
@@ -48,11 +48,11 @@ https://www.icourse163.org/learn/BIT-268001?tid=1002788003#/learn/content?type=d
 
 小结与练习
 
----- 第二部分 Python基础语法（5周）----
+## ---- 第二部分 Python基础语法（5周）----
 
 导学：“Python基础语法”全体系
 
-第3周 基本数据类型
+### 第3周 基本数据类型
 
 3.1 数字类型
 
@@ -78,7 +78,7 @@ https://www.icourse163.org/learn/BIT-268001?tid=1002788003#/learn/content?type=d
 
 小结与练习
 
-第4周 程序的控制结构
+### 第4周 程序的控制结构
 
 4.1 程序的基本结构
 
@@ -100,7 +100,7 @@ https://www.icourse163.org/learn/BIT-268001?tid=1002788003#/learn/content?type=d
 
 小结与练习
 
-第5周 函数和代码复用
+### 第5周 函数和代码复用
 
 5. 1 函数的基本使用
 
@@ -120,7 +120,7 @@ https://www.icourse163.org/learn/BIT-268001?tid=1002788003#/learn/content?type=d
 
 小结与练习
 
-第6周 组合数据类型
+### 第6周 组合数据类型
 
 6.1 组合数据类型概述
 
@@ -141,7 +141,7 @@ https://www.icourse163.org/learn/BIT-268001?tid=1002788003#/learn/content?type=d
 
 小结与练习
 
-第7周 文件和数据格式化
+### 第7周 文件和数据格式化
 
 7.1 文件的使用
 
@@ -163,11 +163,11 @@ https://www.icourse163.org/learn/BIT-268001?tid=1002788003#/learn/content?type=d
 
 小结与练习
 
----- 第三部分 Python编程思维（2周）----
+## ---- 第三部分 Python编程思维（2周）----
 
 导学：超级语言的编程思想
 
-第8周 程序设计方法学
+### 第8周 程序设计方法学
 
 8.1 实例13：体育竞技分析
 
