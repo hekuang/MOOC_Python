@@ -102,7 +102,7 @@ https://www.icourse163.org/learn/BIT-268001?tid=1002788003#/learn/content?type=d
 
 ### 第5周 函数和代码复用
 
-5. 1 函数的基本使用
+5.1 函数的基本使用
 
 5.2  函数的参数传递
 
